@@ -1,0 +1,149 @@
+.mother{
+	width:70%;
+	border:solid 5px #ccc;
+	float:left;
+	position:relative;
+	left:15%;
+	background:none rgba(92, 163, 211, 0.1);
+	font-family: Arial, Helvetica, sans-serif;
+
+}
+.logo{
+	width:29%;
+	height:100px;
+	float:left;
+	position:relative;
+	z-index:2;
+	text-align:right;
+	background:none rgba(0,0,0, 0.6);
+}
+.login{
+	width:55%;
+	float:right;
+	position:relative;
+	padding-right:2%;
+	padding:3%;
+	z-index:1;
+	text-align:right;
+}
+.menu{
+	width:80%;
+	height:100px;
+	float:left;
+	position:relative;
+	padding-left:20%;
+	font-family: Arial, Helvetica, sans-serif;
+	background:none rgba(209, 96, 172, 0.5);
+	
+}
+.menu_botao{
+	padding:1%;
+	text-align:center;
+	float:left;
+	position:relative;
+	margin-left:1%;
+	top:40px;
+	font-family: Arial, Helvetica, sans-serif;
+
+
+}
+.menu_botao:hover{
+	border:solid 2px #fff;
+	border-top-left-radius:1em;
+	border-top-right-radius:1em;
+	background:none rgba(209, 96, 172, 0.9);
+	color:#fff;
+}
+.center_geral{
+	width:70%;
+	float:left;
+	position:relative;
+	background:none rgba(92, 163, 211, 0.7);
+	
+}
+.slider{
+	width:98%;
+	height:300px;
+	float:left;
+	position:relative;
+	padding:1%;	
+}
+.conter{
+	width:98%;
+	float:left;
+	position:relative;
+	padding:1%;
+	background:#fff;
+	color:#999;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.cont_preco{
+	float:left;
+	position:relative;
+	background:none rgba(172, 141, 180,0.9);
+	width:200px;
+	height:250px;
+	margin-left:1.5%;
+	margin-bottom:1%;
+}
+.descricao{
+	width:98%;
+	height:100px;
+	float:left;
+	position:relative;
+	background:none rgba(172, 141, 180, 0.3);
+	padding:1%;
+	top:-100px;
+	z-index:1;
+	color:#fff;
+}
+.descricao:hover{
+	background:none rgba(172, 141, 180, 0.6);
+}
+.roda_pe{
+	margin-top:1%;
+	margin-bottom:1%;
+	width:96%;
+	height:50px;
+	float:left;
+	position:relative;
+	background:none rgba(209, 96, 172, 0.5);
+	padding:2%;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:80%;
+	color:#000;
+}
+.acessorios{
+	margin-bottom:1%;
+	width:30%;
+	height:586px;
+	float:left;
+	position:relative;
+	background:#fff;
+}
+.titulo{
+	width:96%;
+	padding:2%;
+	float:left;
+	position:relative;
+	background:none rgba(209, 96, 172, 0.6);
+	text-align:center;
+}
+.acess_cont{
+	width:60%;
+	float:left;
+	position:relative;
+	background:none rgba(0,0,0, 0.6);
+	text-align:center;
+}
+.acess_preco{
+	width:36%;
+	padding:2%;
+	float:left;
+	color:#fff;
+	margin-bottom:1%;
+	position:relative;
+	background:none rgba(0,0,0, 0.6);
+	text-align:center;
+	font-size:95.5%;
+}
