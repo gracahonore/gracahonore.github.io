@@ -1,10 +1,10 @@
 .mother{
 	width:70%;
-	border:solid 5px #000;
+	border:solid 5px #ccff99;
 	float:left;
 	position:relative;
 	left:15%;
-	background:none rgba(92, 163, 211, 0.6);
+	background:none rgba(92, 163, 211, 0.1);
 	font-family: Arial, Helvetica, sans-serif;
 
 }
